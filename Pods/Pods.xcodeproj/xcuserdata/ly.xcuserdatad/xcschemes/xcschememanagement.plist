@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-HotFood-Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HotFood-Kingfisher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HotFood-SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HotFood-pop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HotFood.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>00309331DEE76D8CF12C301C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1618CD2F875DA653EB5B9AF8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>187378C398B1D076F565E67C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3683CF0956CFC89629FDD9E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8EEFAE4DD1FD043ED3A1F11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
